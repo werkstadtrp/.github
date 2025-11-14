@@ -1,7 +1,7 @@
-# Chemnitz City - Dein Leben, deine Story, unser Vergnügen
-![esxLogo](https://github.com/user-attachments/assets/26896c32-d7f8-485b-aee6-e2c9f988e060)
+# Werkstadt RP Github
+<img width="512" height="512" alt="grafik" src="https://github.com/user-attachments/assets/dd4b9ed0-4590-42d9-a222-180d3a8d7b5d" />
 
-Willkommen zum offiziellen Repository des **Chemnitz City RP Servers**.
+Willkommen zum offiziellen Repository des **Werkstadt RP Servers**.
 
 ---
 
@@ -9,7 +9,6 @@ Willkommen zum offiziellen Repository des **Chemnitz City RP Servers**.
 
 - **Projektleiter**: [Pinguin aka. PinguinPocalypse](https://github.com/GamingLuke1337)
 - **Stv. PL**: Kemal (receive)
-- **Stv. PL**: [Max](https://github.com/MaxGoatedxx)
 
 ---
 
